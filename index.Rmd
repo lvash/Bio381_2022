@@ -4,7 +4,7 @@ author: "Lauren V. Ash"
 date: "Spring 2022"
 output:
   prettydoc::html_pretty:
-    theme: leonids
+    theme: tactile
     highlight: github
 ---
 
@@ -18,5 +18,6 @@ Welcome to my Bio381 page! I am a Ph.D. candidate studying ranavirus in New Engl
 
 ## Homework Assignments
 
-### Homework for Lab 3
+### Homework for Lab 3 
+My link is [here](Hw3-test.html)
 

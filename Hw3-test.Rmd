@@ -1,0 +1,18 @@
+---
+title: "Homework 3"
+author: "Lauren V. Ash"
+date: "2/2/2022"
+output: html_document
+---
+
+1. This the first question text: Myrmica lobrifons
+
+```
+FIND: (\w)(\w+) (\w+) 
+REPLACE: \1. \3
+```
+I used the w wildcard with no quantifiers to capture the first letter. The result was: M. lobrifons.
+
+
+
+
