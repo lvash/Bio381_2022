@@ -1,0 +1,22 @@
+---
+title: "Bio381 2022"
+author: "Lauren V. Ash"
+date: "Spring 2022"
+output:
+  prettydoc::html_pretty:
+    theme: leonids
+    highlight: github
+---
+
+<center>
+![](Ash-Lauren.jpg)
+</center>
+
+Welcome to my Bio381 page! I am a Ph.D. candidate studying ranavirus in New England amphibian communities. You can find my personal page here: [Lauren's Website](https://lvash.github.io)
+
+-----------------------------
+
+## Homework Assignments
+
+### Homework for Lab 3
+
